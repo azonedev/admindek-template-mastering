@@ -1,3 +1,25 @@
+{{-- 
+    includes:
+    ---------
+        header : admin.layouts.header
+        navbar top : admin.layouts.nav-top
+        navbar left : admin.layouts.nav-left
+        footer : admin.layouts.footer
+
+    section created : (yield) for this & all sub-templates
+    -------------------------------------------------------
+        On Master Template : 
+            Page header title : page-icon, page-title, page-sub-title
+            Page body / Main page content : main-content
+
+        On Header Template : 
+            Meta title : page-title
+            Extra/Custom CSS for each template : extra-css
+        
+        On Footer Template :
+            Extra/Custom JS for each template : extra-js
+--}}
+
 @include('admin.layouts.header')
 
 <body>
