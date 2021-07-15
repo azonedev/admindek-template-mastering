@@ -6,3 +6,6 @@
     3. copy the admin-layouts directory from this repo & paste into YourApplication/resources/views
 
     Everyting done. Now you can extends the master layouts that on views/admin-layouts
+
+
+Download admindek bootstrap template : https://github.com/baotm/admindek
