@@ -7,8 +7,8 @@
 
     Everyting done. Now you can extends the master layouts that on views/admin-layouts
 
-    * To use toaster notification you have to install the package ` https://github.com/brian2694/laravel-toastr `
-    * To use datatable as server pagination you have to install the package ` https://github.com/yajra/laravel-datatables `
+ * To use toaster notification you have to install the package ` https://github.com/brian2694/laravel-toastr `
+ * To use datatable as server pagination you have to install the package ` https://github.com/yajra/laravel-datatables `
 
 ## Template mastering guide :
     includes:
